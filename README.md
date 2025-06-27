@@ -7,7 +7,7 @@ The packages that are included with this version are the normal Arch packages an
 
 Include all open source drivers. but it was installed with a legacy NVIDIA gpu so that is reccomended.
 
-Root passeord is: root
+Root password is: root
 
 I reccomend to use the default account that i have created called: user
 
